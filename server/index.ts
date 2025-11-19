@@ -9,7 +9,6 @@ import * as editorTools from "./editor/tools.js"
 
 export const server = new McpServer({
 	name: "UnrealMCP",
-	description: "Unreal Engine mcp - use the documentation resource before using tools. Some tools run in the editor",
 	version: "0.1.0",
 })
 
